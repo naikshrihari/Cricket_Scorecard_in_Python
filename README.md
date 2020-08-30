@@ -18,6 +18,5 @@ strike rates, etc. can be added too. But these are "good to have" features, plea
 the bare minimum first.
 
 ## Tools
-  * VS
   * Python
  
